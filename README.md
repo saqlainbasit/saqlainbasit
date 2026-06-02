@@ -83,7 +83,7 @@
 - 🧬 Full OOP architecture — inheritance, aggregation
 - 🤝 Group project (3-person team)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saqlainbasit)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saqlainbasit/WarPredictorCppEngine)
 
 </td>
 </tr>
