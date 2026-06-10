@@ -22,7 +22,6 @@
 
 ### 👨‍🎓 Who I Am
 - 🎓 BS Computer Science student
-- 🏫 Roll No: **2025-CS-043**
 - 🌍 Passionate about building real-world software
 - 💡 I believe in **clean code, shipped products**
 - ⚡ Always exploring the intersection of **systems & web**
@@ -31,7 +30,7 @@
 <td valign="top" width="50%">
 
 ### 🎯 What I Do
-- 🔭 Currently building **[DevDock](https://github.com/saqlainbasit/devdock)** — Docker management UI
+- 🔭 Currently building **[PortfolioX](https://github.com/saqlainbasit/portfolioX)** — Docker management UI
 - 🌱 Deep-diving into **DevOps & cloud deployments**
 - 🧩 Sharpening **OOP & systems** skills in C++
 - 🤝 Open to **collaborations & open-source**
