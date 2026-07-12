@@ -173,7 +173,6 @@
 
 <div align="center">
 
-<a href="https://github.com/saqlainbasit"><img src="https://img.shields.io/badge/GitHub-saqlainbasit-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saqlainbasit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://saqlainbasit-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-saqlainbasit-e8520a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
