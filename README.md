@@ -30,7 +30,6 @@
 <td valign="top" width="50%">
 
 ### 🎯 What I Do
-- 🔭 Currently building **[PortfolioX](https://github.com/saqlainbasit/portfolioX)** — Docker management UI
 - 🌱 Deep-diving into **DevOps & cloud deployments**
 - 🧩 Sharpening **OOP & systems** skills in C++
 - 🤝 Open to **collaborations & open-source**
